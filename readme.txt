@@ -1,2 +1,2 @@
 Git is a distributed control ststem
-Gis id free software
+Gis is free software under GPL
