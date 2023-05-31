@@ -1,2 +1,2 @@
-Git is a version control ststem
+Git is a distributed control ststem
 Gis id free software
